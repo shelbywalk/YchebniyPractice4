@@ -239,8 +239,8 @@ namespace YchebniyPractice3
                 employee.Id0();
                 Console.ReadKey();
             }
-            Day3();
-            Day4();
+            YchebniyPractice3();
+            YchebniyPractice4();
         }
     }
 }
