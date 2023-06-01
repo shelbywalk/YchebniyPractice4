@@ -20,7 +20,7 @@ namespace YchebniyPractice3
                 new("Посов Герасим Павлович", 18000, 1),
                 new("Брагимов Тихон Иванов", 24000, 2),
             };
-            void Day3()
+            void YchebniyPractice3()
             {
                 void TaskA()
                 {
@@ -103,7 +103,7 @@ namespace YchebniyPractice3
                 employee.Id0();
                 Console.WriteLine();
             }
-            void Day4()
+            void YchebniyPractice4()
             {
                 void IndexSalary()
                 {
